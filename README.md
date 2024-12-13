@@ -1,4 +1,4 @@
-# Welcome to Open Source Contributions this is a copy🍉
+# Welcome to Open Source Contributions this is a copy1g🍉
 
 <p>🚨 <b>VERY IMPORTANT:</b> If you want your Pull Request to be accepted, follow these steps:
     <li>Add a post on <b>LinkedIn</b> with the Repo's link and tagging the owner (Ali Solanki)</li>
@@ -497,7 +497,7 @@ Thanks goes to these wonderful people ([🤗](https://allcontributors.org/docs/e
                     <br />
                     <sub><b>Prasad Suman Mohan</b></sub>
                 </a>
-            </td>                                                                                                        
+            </td>                                                                                                      
             <td align="center">
                 <a href="https://github.com/zishu1">
                     <img src="https://avatars.githubusercontent.com/u/87239056?s=400&u=ef0d450c92b0dd3eb1ba41ab55bddf827328ea23&v=4" width="100px;" alt="UmIamBda Doe" />
@@ -519,7 +519,7 @@ Thanks goes to these wonderful people ([🤗](https://allcontributors.org/docs/e
                     <br />
                     <sub><b>Kishan Kumar</b></sub>
                 </a>
-            </td>                                                                                                  
+            </td>                                                                                                
             <td align="center">
                 <a href="https://github.com/Ronak-Ronu">
                     <img src="https://avatars.githubusercontent.com/u/112187817?v=4" width="100px;" alt="Ronak Suthar"/>
@@ -1079,7 +1079,7 @@ Thanks goes to these wonderful people ([🤗](https://allcontributors.org/docs/e
                     <sub><b>Pramodh Kadam</b></sub>
                 </a>
             </td>
-            <td align="center">       
+            <td align="center">     
                 <a href="https://jayanth5775.github.io/jayweb/#gsc.tab=0">
                     <img src="https://avatars.githubusercontent.com/u/102643623?s=40&v=4" width="100px;" alt="JAYANTH H  S"/>
                     <br />
